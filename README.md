@@ -1,11 +1,20 @@
-# <center>CHATBOT</center> 
-***<center>Personal Assistant for anyone</center>***
-<center><img src="https://github.com/Shiru99/ChatBot/blob/main/chatbot.png" align="center" width="75%" height= "75%" title="ChatBot Image" alt="Chatbot Image"></center>
+<div align="center">
 
-<h2><center>TEAM PHI (φ)</center></h2>
+# CHATBOT
 
-***<center>15th Nov. 2019</center>***
-***<center>3rd Sem. SSL project</center>***
+
+***Personal Assistant for anyone***
+<img src="https://github.com/Shiru99/ChatBot/blob/main/chatbot.png" align="center" width="75%" height= "75%" title="ChatBot Image" alt="Chatbot Image">
+
+
+<h2>TEAM PHI (φ)</h2>
+
+***15th Nov. 2019***
+
+***3rd Sem. SSL project***
+
+</div>
+
 
 <h2>INTRODUCTION</h2>
 
@@ -41,11 +50,10 @@ The most suitable response will be stored in tuple which will be returned to pri
 
 <h2>LIBRARIES USED</h2>
 
-<center><img src="https://github.com/Shiru99/ChatBot/blob/main/Libs.png"  align="center" width="75%" height= "75%" title="Libs" alt="Chatbot Image"></center>
+<img src="https://github.com/Shiru99/ChatBot/blob/main/Libs.png"  align="center" width="75%" height= "75%" title="Libs" alt="Chatbot Image">
 
 
 <h2>FUNCTIONS OF LIBRARY</h2>
 
-<center><img src="https://github.com/Shiru99/ChatBot/blob/main/FlowChart.png"  align="center"  width="75%" height= "75%" title="Flowchart" alt="Chatbot Image"></center>
-
+<img src="https://github.com/Shiru99/ChatBot/blob/main/FlowChart.png"  align="center"  width="75%" height= "75%" title="Flowchart" alt="Chatbot Image">
 
