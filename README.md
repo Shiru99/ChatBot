@@ -2,8 +2,8 @@
 
 # CHATBOT
 
-
 ***Personal Assistant for anyone***
+
 <img src="https://github.com/Shiru99/ChatBot/blob/main/chatbot.png" align="center" width="75%" height= "75%" title="ChatBot Image" alt="Chatbot Image">
 
 
