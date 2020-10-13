@@ -1,0 +1,21 @@
+how many books are there in library : There are 3000 books in library : 
+how to go to library : After entering main block go to second floar and take right \n the last room is study  room and second last is library : 
+how to rich library : After entering main block go to second floar and take right the last room is study room and second last is library :  
+where is library : After entering main block go to second floar and take right the last room is study room and second last is library :  
+who is library assistant : Mr. Ompraksh bhendigiri is library assistant : 
+who is library incharge : Mr. Ompraksh bhendigiri is incharge of library : 
+can i take books outside the library : Yes!!! but you have to show ID card : 
+is available in library : sorry!! its not available : 
+what is opening and closig time for library : from 7 AM to 7 PM it will be open : 
+how is environmet near librery : It is the most calm place in whole campus : 
+what is fees for library : only IIT Dharwad student can have full access to library. and 500Rs. are taken along with fees as library fees : 
+what is capacity of library : 40 student per time can study in it : 
+can i get coffee to drink in library : no. students are not aloud to use coffee machine for drinking : 
+are comics available in library : no. currently we have only study material available : 
+what is yearly budget of library : 50,000 Rs. and library club also provides daily news paper to each hostel. : 
+which book is most wanted book in library : AI by shantanu banarji : 
+which book is mostly preferd by CSE students : AI by shantanu banarji : 
+which book is mostly preferd by EE students : digital analouge and circuit : 
+which book is mostly preferd by ME students : Material science : 
+area of library : our current library has 300 sq.ft of area but in permenent campus library will be much bigger : 
+where i will get book in library : all books related to maths & physics & chem will be in first column and books for specialization are in 2nd & 3rd column :  

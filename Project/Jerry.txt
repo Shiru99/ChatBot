@@ -1,0 +1,8 @@
+Password : 1234 : 
+firstname : fgn : 
+lastname : fdn : 
+city : fdhn : 
+country : sfng : 
+phone number : 354 : 
+mail ID : sdf@sdfb : 
+JEE rank : 545 : 
